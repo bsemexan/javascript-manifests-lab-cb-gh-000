@@ -1,3 +1,3 @@
 //= require main
-//= hello_world
-//= doesn_nothing
+//= require hello_world
+//= require doesn_nothing
